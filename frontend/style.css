@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+h1{
+    text-align: center;
+
+}
+.vermelho{
+    color:red;
+}
+.laranja{
+    color:orange;
+}
+.amarelo{
+    color:yellow;
+}
+.verde{
+    color:green;
+}
+.azul{
+    color:blue;
+}
+.anil{
+    color:indigo;
+}
+.violeta{
+    color:violet;
+}
+#cores{
+    padding:10px;
+    list-style: none;
+    margin:30px;
+    text-align: center;
+    background-color: black;
+    border:2px solid blue;
+    border-radius: 20px;
+}
